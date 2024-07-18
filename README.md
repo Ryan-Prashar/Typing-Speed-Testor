@@ -9,3 +9,11 @@ Features:
 3. Real-time Feedback: Provides instant feedback on your typing speed and accuracy.
 4. User-Friendly Interface: Simple and intuitive interface for a smooth user experience.
 
+How It Works:
+
+The application works by presenting the user with a sample text to type. As the user types, the application:
+
+1. Records the time taken to type the entire text.
+2. Counts the number of correctly typed words and errors.
+3. Calculates the typing speed in words per minute (WPM).
+4. Calculates the error by comparing the user's input to the provided text.
